@@ -1,0 +1,36 @@
+{
+    "guilds": [
+        {
+            "id": 1731862624248,
+            "name": "azdz",
+            "rank": "A",
+            "tasks": [
+                {
+                    "id": 1731862712401,
+                    "completed": false,
+                    "title": "sa",
+                    "priority": "A",
+                    "dueDate": "2023-06-12"
+                },
+                1731862712401
+            ],
+            "schedule": {}
+        }
+    ],
+    "tasks": [
+        {
+            "id": 1731862637993,
+            "completed": false,
+            "title": "azda",
+            "priority": "C",
+            "dueDate": "2023-06-12"
+        },
+        {
+            "id": 1731862712401,
+            "completed": false,
+            "title": "sa",
+            "priority": "A",
+            "dueDate": "2023-06-12"
+        }
+    ]
+}
